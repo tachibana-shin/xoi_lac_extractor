@@ -1,0 +1,17 @@
+{
+  "name": "xoi_lac_extractor",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/crypto-js": "^4.2.2",
+    "vitest": "^3.2.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.0",
+    "crypto-js": "^4.2.0",
+    "hono": "^4.8.5"
+  }
+}
